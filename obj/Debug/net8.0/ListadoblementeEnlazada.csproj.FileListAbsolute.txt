@@ -1,0 +1,14 @@
+C:\Users\sharonmarroquin\source\repos\ListadoblementeEnlazada\bin\Debug\net8.0\ListadoblementeEnlazada.exe
+C:\Users\sharonmarroquin\source\repos\ListadoblementeEnlazada\bin\Debug\net8.0\ListadoblementeEnlazada.deps.json
+C:\Users\sharonmarroquin\source\repos\ListadoblementeEnlazada\bin\Debug\net8.0\ListadoblementeEnlazada.runtimeconfig.json
+C:\Users\sharonmarroquin\source\repos\ListadoblementeEnlazada\bin\Debug\net8.0\ListadoblementeEnlazada.dll
+C:\Users\sharonmarroquin\source\repos\ListadoblementeEnlazada\bin\Debug\net8.0\ListadoblementeEnlazada.pdb
+C:\Users\sharonmarroquin\source\repos\ListadoblementeEnlazada\obj\Debug\net8.0\ListadoblementeEnlazada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharonmarroquin\source\repos\ListadoblementeEnlazada\obj\Debug\net8.0\ListadoblementeEnlazada.AssemblyInfoInputs.cache
+C:\Users\sharonmarroquin\source\repos\ListadoblementeEnlazada\obj\Debug\net8.0\ListadoblementeEnlazada.AssemblyInfo.cs
+C:\Users\sharonmarroquin\source\repos\ListadoblementeEnlazada\obj\Debug\net8.0\ListadoblementeEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\sharonmarroquin\source\repos\ListadoblementeEnlazada\obj\Debug\net8.0\ListadoblementeEnlazada.dll
+C:\Users\sharonmarroquin\source\repos\ListadoblementeEnlazada\obj\Debug\net8.0\refint\ListadoblementeEnlazada.dll
+C:\Users\sharonmarroquin\source\repos\ListadoblementeEnlazada\obj\Debug\net8.0\ListadoblementeEnlazada.pdb
+C:\Users\sharonmarroquin\source\repos\ListadoblementeEnlazada\obj\Debug\net8.0\ListadoblementeEnlazada.genruntimeconfig.cache
+C:\Users\sharonmarroquin\source\repos\ListadoblementeEnlazada\obj\Debug\net8.0\ref\ListadoblementeEnlazada.dll
